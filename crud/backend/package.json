@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "Jonathan Lima <jonathan633.jl@gmail.com> (https://jonathanslima.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}
